@@ -72,7 +72,7 @@ This is the most innovative part of the project. We used a Denoising Denoising P
 
 * Training Parameters:
 
-  * Epochs: 50
+  * Epochs: 10
 
   * Image Size: 128x128 pixels
 
